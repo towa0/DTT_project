@@ -16,6 +16,7 @@ export default {
 
 <style scoped>
 .button {
+  height: 44px;
   font-size: 18px;
   display: flex;
   align-items: center;
@@ -26,9 +27,9 @@ export default {
   border: none;
   padding-left: 20px;
   padding-right: 26px;
-  padding-top: 14px;
-  padding-bottom: 13px;
-  border-radius: 10px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 8px;
   cursor: pointer;
 }
 
